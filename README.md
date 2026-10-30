@@ -1,0 +1,3 @@
+https://youtu.be/0V5Jmsbq2ws
+
+This video explores the circuit-based modelling of resonant converters using the LLC converter as an example. In the video, we show how to develop a great-signal equivalent circuit of the LLC converter. This is an exact circuit that provides the same results as the full converter but without having to include switches, diodes, and driving signals in the simulation. Thus, the simulation is much faster and clearer, providing an excellent way to understand the behavior of the converter. The circuit-based model can also be used to obtain the small-signals transfer functions of the converter by simulation. The video shows how to do this using the normalized-switching-frequency-to-output-voltage control transfer function as an example.
